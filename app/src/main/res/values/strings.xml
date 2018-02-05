@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="courses_provider">Udacity-Online courses provider</string>
+    <string name="website">https://www.udacity.com/</string>
+    <string name="contact_details">contact details:</string>
+    <string name="header_picture">header picture</string>
+</resources>
